@@ -1,0 +1,213 @@
+{"level":30,"time":"2025-07-18T23:36:04.263Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Listening on 127.0.0.1:54449"}
+(node:50964) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-07-18T23:36:04.838Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-07-18T23:36:05.686Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Adding browser to stack: chromium, version: 138.0.7204.23"}
+{"level":30,"time":"2025-07-18T23:36:05.687Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-07-18T23:36:05.686Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-07-18T23:36:05.696Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method newContext"}
+{"level":30,"time":"2025-07-18T23:36:05.697Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2025-07-18T23:36:05.697Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-07-18T23:36:05.697Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Trace file: "}
+{"level":30,"time":"2025-07-18T23:36:05.717Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Changed active context"}
+{"level":30,"time":"2025-07-18T23:36:05.717Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method newContext"}
+{"level":30,"time":"2025-07-18T23:36:05.725Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-07-18T23:36:05.725Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-07-18T23:36:06.344Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Video path: undefined"}
+{"level":30,"time":"2025-07-18T23:36:06.345Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Changed active page"}
+{"level":30,"time":"2025-07-18T23:36:07.053Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method newPage"}
+{"level":30,"time":"2025-07-18T23:36:07.059Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2025-07-18T23:36:07.096Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2025-07-18T23:36:07.106Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.106Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[1]/input in page."}
+{"level":30,"time":"2025-07-18T23:36:07.167Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.174Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:07.174Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[1]/input in page."}
+{"level":30,"time":"2025-07-18T23:36:07.198Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:07.205Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.205Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[2]/input in page."}
+{"level":30,"time":"2025-07-18T23:36:07.224Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.231Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:07.231Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[2]/input in page."}
+{"level":30,"time":"2025-07-18T23:36:07.252Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:07.258Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.258Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[3]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:07.263Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.271Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:07.271Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div[2]/div/form/fieldset/div[3]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:07.359Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:07.364Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:07.364Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div/div/div[2]/div/div[3]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:11.091Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:11.099Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:11.099Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div/div/div[2]/div/div[3]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:11.139Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:11.147Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:11.147Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div/div/div/div/div[2]/div/div[3]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:11.912Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:11.919Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:11.920Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[1]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:15.160Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:15.167Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:15.167Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[1]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:15.224Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:15.237Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:15.237Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-branch\"]/div/div/div/div[2]/div/div/div/div[2]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:15.521Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:15.528Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:15.529Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-activity\"]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:15.694Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:18.709Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:18.710Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"30\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:18.753Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Element //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"30\"]] is not editable: Error: locator.isEditable: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]\nCall log:\n\u001b[2m  - waiting for locator('//button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"30\"]]')\u001b[22m\n"}
+{"level":30,"time":"2025-07-18T23:36:18.753Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Checking checked state"}
+{"level":30,"time":"2025-07-18T23:36:18.795Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:18.806Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:18.806Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"30\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:18.876Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:18.892Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:18.893Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //span[normalize-space(text())=\"8:00\"]/ancestor::span[contains(@class,\"time-slot-chip\") and contains(@class,\"v-chip--clickable\") and not(contains(@class,\"v-chip--disabled\"))] in page."}
+================= Original suppressed error =================
+locator.waitFor: Timeout 7000ms exceeded.
+Call log:
+[2m  - waiting for locator('//span[normalize-space(text())="8:00"]/ancestor::span[contains(@class,"time-slot-chip") and contains(@class,"v-chip--clickable") and not(contains(@class,"v-chip--disabled"))]') to be visible[22m
+
+    at waitForElementState (C:\Users\Kasidith.r\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:11283:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\Kasidith.r\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:13135:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2025-07-18T23:36:25.898Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:25.916Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-07-18T23:36:25.917Z","pid":50964,"hostname":"LAPTOP-H26AJG50","Take screenshot with options: ":{"path":"C:\\Users\\Kasidith.r\\Documents\\SQ5\\PrinceOfTennis\\Highly-Confidential\\tests\\browser\\screenshot\\fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-07-18T23:36:26.141Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-07-18T23:36:26.412Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:26.412Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-branch\"]/div/div/div/div[2]/div/div/div/div[2]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:26.465Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:26.473Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:26.474Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-activity\"]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:26.538Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.550Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:29.550Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"31\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:29.580Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Element //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"31\"]] is not editable: Error: locator.isEditable: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]\nCall log:\n\u001b[2m  - waiting for locator('//button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"31\"]]')\u001b[22m\n"}
+{"level":30,"time":"2025-07-18T23:36:29.581Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Checking checked state"}
+{"level":30,"time":"2025-07-18T23:36:29.609Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:29.621Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.621Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"31\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:29.797Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.814Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:29.815Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //span[normalize-space(text())=\"8:00\"]/ancestor::span[contains(@class,\"time-slot-chip\") and contains(@class,\"v-chip--clickable\") and not(contains(@class,\"v-chip--disabled\"))] in page."}
+{"level":30,"time":"2025-07-18T23:36:29.825Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:29.836Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.836Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //span[normalize-space(text())=\"8:00\"]/ancestor::span[contains(@class,\"time-slot-chip\") and contains(@class,\"v-chip--clickable\") and not(contains(@class,\"v-chip--disabled\"))] in page."}
+{"level":30,"time":"2025-07-18T23:36:29.939Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.950Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:29.950Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with css=input[type=\"tel\"] in page."}
+{"level":30,"time":"2025-07-18T23:36:29.985Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:29.994Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:29.994Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with text=ยอมรับ / ACCEPT in page."}
+{"level":30,"time":"2025-07-18T23:36:30.066Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:30.074Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:30.074Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:30.105Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Element //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button is not editable: Error: locator.isEditable: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]\nCall log:\n\u001b[2m  - waiting for locator('//*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button')\u001b[22m\n"}
+{"level":30,"time":"2025-07-18T23:36:30.106Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Checking checked state"}
+{"level":30,"time":"2025-07-18T23:36:30.128Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:30.135Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:30.135Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:30.223Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:30.230Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/div/button in page."}
+{"level":30,"time":"2025-07-18T23:36:30.230Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:30.239Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:30.245Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:30.245Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/div/button in page."}
+{"level":30,"time":"2025-07-18T23:36:30.304Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:30.310Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:30.311Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with xpath=//span[normalize-space(text())=\"Waiting for confirmation\"] in page."}
+{"level":30,"time":"2025-07-18T23:36:38.878Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:38.889Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:38.889Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[1]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:38.898Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:38.907Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:38.907Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[1]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:39.025Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:39.038Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:39.038Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-branch\"]/div/div/div/div[2]/div/div/div/div[2]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:39.169Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:39.177Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:39.177Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"card-activity\"]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div in page."}
+{"level":30,"time":"2025-07-18T23:36:39.407Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.425Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:42.425Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"25\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:42.456Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Element //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"25\"]] is not editable: Error: locator.isEditable: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]\nCall log:\n\u001b[2m  - waiting for locator('//button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"25\"]]')\u001b[22m\n"}
+{"level":30,"time":"2025-07-18T23:36:42.456Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Checking checked state"}
+{"level":30,"time":"2025-07-18T23:36:42.481Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:42.491Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.491Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //button[not(@disabled) and not(contains(@class,\"v-btn--disabled\")) and .//div[normalize-space(text())=\"25\"]] in page."}
+{"level":30,"time":"2025-07-18T23:36:42.548Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.562Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:42.562Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //span[normalize-space(text())=\"8:00\"]/ancestor::span[contains(@class,\"time-slot-chip\") and contains(@class,\"v-chip--clickable\") and not(contains(@class,\"v-chip--disabled\"))] in page."}
+{"level":30,"time":"2025-07-18T23:36:42.570Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:42.579Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.579Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //span[normalize-space(text())=\"8:00\"]/ancestor::span[contains(@class,\"time-slot-chip\") and contains(@class,\"v-chip--clickable\") and not(contains(@class,\"v-chip--disabled\"))] in page."}
+{"level":30,"time":"2025-07-18T23:36:42.662Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.677Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:42.677Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with css=input[type=\"tel\"] in page."}
+{"level":30,"time":"2025-07-18T23:36:42.701Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method fillText"}
+{"level":30,"time":"2025-07-18T23:36:42.708Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:42.708Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with text=ยอมรับ / ACCEPT in page."}
+{"level":30,"time":"2025-07-18T23:36:52.721Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Error of node method  click"}
+================= Original suppressed error =================
+locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('text=ยอมรับ / ACCEPT')[22m
+
+    at internalClick (C:\Users\Kasidith.r\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:11893:19)
+    at async click (C:\Users\Kasidith.r\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:11874:18)
+    at async PlaywrightServer.click (C:\Users\Kasidith.r\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:13135:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2025-07-18T23:36:52.751Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-07-18T23:36:52.751Z","pid":50964,"hostname":"LAPTOP-H26AJG50","Take screenshot with options: ":{"path":"C:\\Users\\Kasidith.r\\Documents\\SQ5\\PrinceOfTennis\\Highly-Confidential\\tests\\browser\\screenshot\\fail-screenshot-2.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-07-18T23:36:52.957Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-07-18T23:36:53.002Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:53.002Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:53.029Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Element //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button is not editable: Error: locator.isEditable: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]\nCall log:\n\u001b[2m  - waiting for locator('//*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button')\u001b[22m\n"}
+{"level":30,"time":"2025-07-18T23:36:53.030Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Checking checked state"}
+{"level":30,"time":"2025-07-18T23:36:53.057Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getElementStates"}
+{"level":30,"time":"2025-07-18T23:36:53.065Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:53.065Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/form/div[5]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:53.178Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:53.190Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:53.190Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/div/button in page."}
+{"level":30,"time":"2025-07-18T23:36:53.202Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:53.210Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:53.210Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[2]/div/button in page."}
+{"level":30,"time":"2025-07-18T23:36:53.282Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:53.289Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:53.289Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with xpath=//span[normalize-space(text())=\"Waiting for confirmation\"] in page."}
+{"level":30,"time":"2025-07-18T23:36:54.132Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:54.144Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:54.144Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[1]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:54.154Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-07-18T23:36:54.163Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method click"}
+{"level":30,"time":"2025-07-18T23:36:54.163Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Strict mode is enabled, find Locator with //*[@id=\"app\"]/div/div[1]/div[1]/div[1]/button in page."}
+{"level":30,"time":"2025-07-18T23:36:54.281Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method click"}
+{"level":30,"time":"2025-07-18T23:36:54.295Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.304Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.310Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.314Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.320Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.343Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.350Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.355Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.360Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Changed active context"}
+{"level":30,"time":"2025-07-18T23:36:54.361Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Changing current active page: page=7e738054-17b5-4ed6-9a2a-739329ef7e7a"}
+{"level":30,"time":"2025-07-18T23:36:54.361Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Changed active page"}
+{"level":30,"time":"2025-07-18T23:36:54.371Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-07-18T23:36:54.392Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Removed page=8f43d138-d843-49b4-8289-8c522eea9c66 from context=f5d01643-45a7-46fb-a833-e21bb0fd1c9b page stack"}
+{"level":30,"time":"2025-07-18T23:36:54.490Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-07-18T23:36:54.502Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:54.503Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-07-18T23:36:56.531Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-07-18T23:36:57.086Z","pid":50964,"hostname":"LAPTOP-H26AJG50","msg":"End of node method closeAllBrowsers"}
