@@ -3,6 +3,7 @@
 ${URL}    https://access.line.me/oauth2/v2.1/login?returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fapp_id%3D1656686073-5LNA3Lo8%26client_id%3D1656686073%26scope%3Dopenid%2520profile%26state%3DxTzIiNPAoTV4%26response_type%3Dcode%26code_challenge_method%3DS256%26code_challenge%3DgC1rk2MU4gxXvkttCGUPHmfrA8rTYBdBzo-3LHJQrG0%26liff_sdk_version%3D2.21.4%26type%3DL%26redirect_uri%3Dhttps%253A%252F%252Fclient.loga.app%252Fcard%252F4486%253FliffId%253D1656686073-5LNA3Lo8%26bot_prompt%3Daggressive&loginChannelId=1656686073&loginState=KLewczeNsuxLQvlAeeEnJu#/
 ${USERNAME}    bomyszo1@gmail.com
 ${PASSWORD}    nogirl123
+${TEL}         0923894965
 ${DAYTIME_BOOKING_START}    7:00
 ${DAYTIME_BOOKING_END}      17:05
 
