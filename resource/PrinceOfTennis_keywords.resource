@@ -14,12 +14,16 @@ Book Court
         ${day_str}=    Evaluate    str(int(${day}))
         Log To Console    📆 Trying day: ${day_str}
 
-        # Step 1: Select Booking Type
+        #1: Select Booking Type (Switch to Nighttime_Booking if time > 18.00)
         Browser.Click    ${TENNIS_RADIO_BUTTON}
-        Browser.Click    ${DAYTIME_BOOKING_RADIOBTN}
-        Sleep   3s  # Wait for UI to update
+        ${is_daytime}=    Evaluate
+        ...    datetime.datetime.strptime('${DAYTIME_BOOKING_START}', '%H:%M') <= datetime.datetime.strptime('${BOOKING_TIME}', '%H:%M') <= datetime.datetime.strptime('${DAYTIME_BOOKING_END}', '%H:%M')
+        ...    modules=datetime      
+        Run Keyword If    ${is_daytime}    Browser.Click    ${DAYTIME_BOOKING_RADIOBTN}
+        ...    ELSE    Browser.Click    ${NIGHTTIME_BOOKING_RADIOBTN}
+        Sleep   1s  # Wait for UI to update
 
-        # Step 2: Click calendar day if visible
+        #2: Click calendar day if visible
         ${date_xpath}=    Set Variable    //button[not(@disabled) and not(contains(@class,"v-btn--disabled")) and .//div[normalize-space(text())="${day_str}"]]
         ${date_states}=   Browser.Get Element States    ${date_xpath}
         Log To Console    ✅ States for ${day_str}: ${date_states}
@@ -30,7 +34,7 @@ Book Court
             CONTINUE
         END
 
-        # Step 3: Try to click time slot
+        #3: Try to click time slot
         ${slot_available}=    Click Time Slot If Available    ${BOOKING_TIME}
         IF    not ${slot_available}
             Log To Console    ⛔ Booking skipped for ${day_str} — no slot available
@@ -38,7 +42,7 @@ Book Court
         END
 
         # ✅ Step 4: Fill in phone number before checking BOOK button
-        Browser.Fill Text    css=input[type="tel"]    0923894965
+        Browser.Fill Text    css=input[type="tel"]    ${TEL}
 
         # Optional: Accept cookie if still visible
         Run Keyword And Ignore Error    Browser.Click    text=ยอมรับ / ACCEPT
